@@ -12,3 +12,4 @@ Vous pouvez accéder à la [présentation du viewer ici]() et aux [slides ici](h
 ## Problèmes
 
 Si vous avez des problèmes ou des suggestions par rapport au Viewer, vous pouvez ajouter des issues dans l'onglet [Issues](https://github.com/GabrielVidal1/AutochessViewerACDC/issues). Je vais les traiter par ordre d'importance. Si possible, évitez d'ajouter des problèmes qui y sont déjà (regardez la liste avant d'ajouter votre problème).
+Si vous avez des problèmes par rapport au sujet ou au TP en général, passez plutôt par discord ou par le système de ticket de l'intranet, ici c'est seulement pour les problèmes liés au Viewer.
